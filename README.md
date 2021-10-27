@@ -2,11 +2,7 @@
 
 A very basic project management application built with rails and bootstrap
 
-Notes:
-
-Update gemfile and run bundle to install the gems
-
-Uses devise for log in and stuff
+Learning Notes:
 
 `<%= yield %>` tag can be replaced by a chunk of html code
 
